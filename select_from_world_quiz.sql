@@ -19,3 +19,5 @@ SELECT name FROM world
 
 Brazil
 Colombia
+
+Result: 7/7

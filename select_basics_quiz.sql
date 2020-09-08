@@ -22,4 +22,4 @@ WHERE area > 50000 AND population < 10000000
 SELECT name, area/population - Wrong Answer
 FROM world WHERE name LIKE ('China', 'Nigeria', 'France', 'Australia')
 
-result : 5/7
+Result : 5/7
